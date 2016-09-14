@@ -4,7 +4,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Your Page Title Here</title>
+        <title>Jada's Blurb</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -19,7 +19,7 @@
     </head>
     <body>
         <header>
-            <h1> Senior Year </h1>
+            <h1> Get to know Jada </h1>
             <img src="images/yardshow.jpg" alt="Yardshow" />
         </header>
         <p> Greetings! My name is Jada Leslie and I am a 22 year old super senior at THE Michigan State University. I study media and information and my graduation date is fast approaching. I am a member of Alpha Kappa Alpha Sorority, Incorporated. I love to read and do hot yoga. My roommates are my best friends and when I'm not doing something for the sorority or spending time with my friends, I spend the rest of my time on social media. </p>
